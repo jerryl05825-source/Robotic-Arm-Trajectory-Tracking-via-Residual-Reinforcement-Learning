@@ -1,0 +1,394 @@
+[
+  {
+    "state": [
+      0,
+      9,
+      false
+    ],
+    "action": 2,
+    "next_state": [
+      1,
+      0,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      1,
+      0,
+      false
+    ],
+    "action": 1,
+    "next_state": [
+      2,
+      0,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      2,
+      0,
+      true
+    ],
+    "action": 3,
+    "next_state": [
+      3,
+      1,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      3,
+      1,
+      true
+    ],
+    "action": 0,
+    "next_state": [
+      4,
+      1,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      4,
+      1,
+      false
+    ],
+    "action": 2,
+    "next_state": [
+      5,
+      0,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      5,
+      0,
+      false
+    ],
+    "action": 1,
+    "next_state": [
+      6,
+      0,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      6,
+      0,
+      true
+    ],
+    "action": 4,
+    "next_state": [
+      7,
+      2,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      7,
+      2,
+      true
+    ],
+    "action": 5,
+    "next_state": [
+      8,
+      3,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      8,
+      3,
+      true
+    ],
+    "action": 0,
+    "next_state": [
+      9,
+      3,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      9,
+      3,
+      false
+    ],
+    "action": 6,
+    "next_state": [
+      10,
+      4,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      10,
+      4,
+      false
+    ],
+    "action": 1,
+    "next_state": [
+      11,
+      4,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      11,
+      4,
+      true
+    ],
+    "action": 7,
+    "next_state": [
+      12,
+      5,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      12,
+      5,
+      true
+    ],
+    "action": 0,
+    "next_state": [
+      13,
+      5,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      13,
+      5,
+      false
+    ],
+    "action": 6,
+    "next_state": [
+      14,
+      4,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      14,
+      4,
+      false
+    ],
+    "action": 1,
+    "next_state": [
+      15,
+      4,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      15,
+      4,
+      true
+    ],
+    "action": 8,
+    "next_state": [
+      16,
+      6,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      16,
+      6,
+      true
+    ],
+    "action": 0,
+    "next_state": [
+      17,
+      6,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      17,
+      6,
+      false
+    ],
+    "action": 9,
+    "next_state": [
+      18,
+      7,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      18,
+      7,
+      false
+    ],
+    "action": 1,
+    "next_state": [
+      19,
+      7,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      19,
+      7,
+      true
+    ],
+    "action": 10,
+    "next_state": [
+      20,
+      8,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      20,
+      8,
+      true
+    ],
+    "action": 0,
+    "next_state": [
+      21,
+      8,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      21,
+      8,
+      false
+    ],
+    "action": 11,
+    "next_state": [
+      22,
+      9,
+      false
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      22,
+      9,
+      false
+    ],
+    "action": 1,
+    "next_state": [
+      23,
+      9,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      23,
+      9,
+      true
+    ],
+    "action": 12,
+    "next_state": [
+      24,
+      10,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      24,
+      10,
+      true
+    ],
+    "action": 13,
+    "next_state": [
+      25,
+      11,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      25,
+      11,
+      true
+    ],
+    "action": 14,
+    "next_state": [
+      26,
+      12,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      26,
+      12,
+      true
+    ],
+    "action": 11,
+    "next_state": [
+      27,
+      9,
+      true
+    ],
+    "reward": 1
+  },
+  {
+    "state": [
+      27,
+      9,
+      true
+    ],
+    "action": 0,
+    "next_state": [
+      28,
+      9,
+      false
+    ],
+    "reward": 1
+  }
+]

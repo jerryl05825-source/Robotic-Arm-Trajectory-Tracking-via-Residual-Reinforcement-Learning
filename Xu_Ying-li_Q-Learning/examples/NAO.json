@@ -1,0 +1,84 @@
+{
+  "text": "NAO",
+  "profile": "uurc-print-v1",
+  "source": "https://uurc.utah.edu/general/letterformation.php",
+  "strokes": [
+    [
+      [
+        0.05,
+        0.15
+      ],
+      [
+        0.05,
+        0.85
+      ]
+    ],
+    [
+      [
+        0.05,
+        0.15
+      ],
+      [
+        0.27,
+        0.85
+      ],
+      [
+        0.27,
+        0.15
+      ]
+    ],
+    [
+      [
+        0.47,
+        0.15
+      ],
+      [
+        0.36,
+        0.85
+      ]
+    ],
+    [
+      [
+        0.47,
+        0.15
+      ],
+      [
+        0.58,
+        0.85
+      ]
+    ],
+    [
+      [
+        0.40714285714285714,
+        0.55
+      ],
+      [
+        0.5328571428571428,
+        0.55
+      ]
+    ],
+    [
+      [
+        0.7,
+        0.15
+      ],
+      [
+        0.7,
+        0.85
+      ],
+      [
+        0.93,
+        0.85
+      ],
+      [
+        0.93,
+        0.15
+      ],
+      [
+        0.7,
+        0.15
+      ]
+    ]
+  ],
+  "geometry_note": "O simplified to four corners at user request; last point repeats first to close the stroke"
+}

@@ -1,0 +1,37 @@
+{
+  "text": "H",
+  "profile": "uurc-print-v1",
+  "source": "https://uurc.utah.edu/general/letterformation.php",
+  "strokes": [
+    [
+      [
+        0.15,
+        0.15
+      ],
+      [
+        0.15,
+        0.85
+      ]
+    ],
+    [
+      [
+        0.15,
+        0.5
+      ],
+      [
+        0.85,
+        0.5
+      ]
+    ],
+    [
+      [
+        0.85,
+        0.15
+      ],
+      [
+        0.85,
+        0.85
+      ]
+    ]
+  ]
+}

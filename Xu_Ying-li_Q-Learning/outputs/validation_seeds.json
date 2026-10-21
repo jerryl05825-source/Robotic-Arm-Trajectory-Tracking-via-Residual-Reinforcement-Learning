@@ -1,0 +1,112 @@
+[
+  {
+    "example": "H",
+    "seed": 0,
+    "episodes": 500,
+    "episode_length": 12,
+    "episode_mode": "fixed_length",
+    "first_optimal_episode": 28,
+    "evaluation_return": 12,
+    "evaluation_steps": 12,
+    "execution_valid": true
+  },
+  {
+    "example": "H",
+    "seed": 1,
+    "episodes": 500,
+    "episode_length": 12,
+    "episode_mode": "fixed_length",
+    "first_optimal_episode": 41,
+    "evaluation_return": 12,
+    "evaluation_steps": 12,
+    "execution_valid": true
+  },
+  {
+    "example": "H",
+    "seed": 2,
+    "episodes": 500,
+    "episode_length": 12,
+    "episode_mode": "fixed_length",
+    "first_optimal_episode": 23,
+    "evaluation_return": 12,
+    "evaluation_steps": 12,
+    "execution_valid": true
+  },
+  {
+    "example": "H",
+    "seed": 3,
+    "episodes": 500,
+    "episode_length": 12,
+    "episode_mode": "fixed_length",
+    "first_optimal_episode": 19,
+    "evaluation_return": 12,
+    "evaluation_steps": 12,
+    "execution_valid": true
+  },
+  {
+    "example": "H",
+    "seed": 4,
+    "episodes": 500,
+    "episode_length": 12,
+    "episode_mode": "fixed_length",
+    "first_optimal_episode": 31,
+    "evaluation_return": 12,
+    "evaluation_steps": 12,
+    "execution_valid": true
+  },
+  {
+    "example": "NAO",
+    "seed": 0,
+    "episodes": 500,
+    "episode_length": 28,
+    "episode_mode": "fixed_length",
+    "first_optimal_episode": 126,
+    "evaluation_return": 28,
+    "evaluation_steps": 28,
+    "execution_valid": true
+  },
+  {
+    "example": "NAO",
+    "seed": 1,
+    "episodes": 500,
+    "episode_length": 28,
+    "episode_mode": "fixed_length",
+    "first_optimal_episode": 121,
+    "evaluation_return": 28,
+    "evaluation_steps": 28,
+    "execution_valid": true
+  },
+  {
+    "example": "NAO",
+    "seed": 2,
+    "episodes": 500,
+    "episode_length": 28,
+    "episode_mode": "fixed_length",
+    "first_optimal_episode": 131,
+    "evaluation_return": 28,
+    "evaluation_steps": 28,
+    "execution_valid": true
+  },
+  {
+    "example": "NAO",
+    "seed": 3,
+    "episodes": 500,
+    "episode_length": 28,
+    "episode_mode": "fixed_length",
+    "first_optimal_episode": 112,
+    "evaluation_return": 28,
+    "evaluation_steps": 28,
+    "execution_valid": true
+  },
+  {
+    "example": "NAO",
+    "seed": 4,
+    "episodes": 500,
+    "episode_length": 28,
+    "episode_mode": "fixed_length",
+    "first_optimal_episode": 135,
+    "evaluation_return": 28,
+    "evaluation_steps": 28,
+    "execution_valid": true
+  }
+]
